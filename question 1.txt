@@ -45,4 +45,3 @@ Namespace: Modules create a namespace for their contents, preventing naming conf
 
 Dependency Management: Modules can depend on other modules, allowing you to manage and resolve dependencies easily. Modern module systems often include mechanisms for declaring and managing these dependencies.
 
-In JavaScript, for example, you have CommonJS (Node.js), ES6 Modules (native browser modules), and AMD (Asynchronous Module Definition) as module systems. Other languages like Python have their module systems, such as Python's `import` statement. These module systems provide ways to structure and organize code into reusable and maintainable units, contributing to code quality and maintainability.
